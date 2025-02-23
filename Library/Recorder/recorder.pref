@@ -37,14 +37,14 @@ MonoBehaviour:
   m_Name: Movie
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 9
+  take: 2
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
       m_Root: 5
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
-      m_AbsolutePath: C:/Users/Luke/Desktop/rec
+      m_AbsolutePath: C:/Users/ACER/Desktop
     m_FileName: <Recorder>_<Take>
   m_Version: 1
   encoderSettings:
@@ -132,7 +132,7 @@ MonoBehaviour:
         encodingProfile: 2
         keyframeDistance: 25
         codec: 0
-        encodingQuality: 2
+        encodingQuality: 1
     - rid: 1441086047563808769
       type: {class: AccumulationSettings, ns: , asm: Unity.Recorder.Editor}
       data:

@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638386027760000000
-    m_Hash: 2992286646
+      ticks: 638759066278166704
+    m_Hash: 2588610799
   m_LockFileStatus:
     m_FilePath: C:/Users/ACER/Desktop/A-Life - CW2 - v2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638386027760000000
-    m_Hash: 3812375553
+      ticks: 638759066278166704
+    m_Hash: 4182943736
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
