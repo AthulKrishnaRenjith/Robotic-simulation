@@ -1,5 +1,7 @@
 # Robotic Simulation
 
+
+
 ## Description
 The Robotic Simulation project is designed to control a robot car using Unity and C#. The primary focus of this project is the `RobotController.cs` script, which handles the movement and behavior of the robot car within the simulation environment.
 
@@ -36,3 +38,11 @@ The `RobotController.cs` file contains the logic for controlling the robot car. 
 - `StayOnRoad()`: Ensures the robot stays on the road by adjusting steering.
 - `AdjustSpeed()`: Dynamically adjusts the robot's speed based on its velocity and orientation.
 - `AvoidObstacles()`: Adjusts steering to avoid detected obstacles.
+
+## Screenshots
+
+### Robot Car in Action
+![Robot Car Moving](robot_car_1.png)
+
+### Obstacle Detection
+![Obstacle Detection](obstacle_detection.png)
