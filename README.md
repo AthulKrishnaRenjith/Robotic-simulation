@@ -1,7 +1,5 @@
 # Robotic Simulation
 
-
-
 ## Description
 The Robotic Simulation project is designed to control a robot car using Unity and C#. The primary focus of this project is the `RobotController.cs` script, which handles the movement and behavior of the robot car within the simulation environment.
 
