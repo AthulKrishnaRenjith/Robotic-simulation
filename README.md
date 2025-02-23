@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Robotic Simulation
 
 ## Description
@@ -37,6 +36,3 @@ The `RobotController.cs` file contains the logic for controlling the robot car. 
 - `StayOnRoad()`: Ensures the robot stays on the road by adjusting steering.
 - `AdjustSpeed()`: Dynamically adjusts the robot's speed based on its velocity and orientation.
 - `AvoidObstacles()`: Adjusts steering to avoid detected obstacles.
-=======
-# Robotic-simulation
->>>>>>> 8e7b055ce2483062fd52ac35f356232cb7ade16d
